@@ -1433,6 +1433,7 @@ A collection of resources for accessing datasets and data sources for analysis a
 - [LLM Datasets](https://github.com/mlabonne/llm-datasets) - A collection of datasets and resources for training and fine-tuning Large Language Models (LLMs).
 - [Unsplash Datasets](https://github.com/unsplash/datasets) - A collection of datasets from Unsplash, useful for computer vision and research.
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets?tab=readme-ov-file#bitcoin) - A curated list of awesome JSON datasets that are publicly available without authentication.
+- [Official Offers Dataset](https://github.com/promo2you-lab/official-offers-dataset) - Offers that 34 consumer brands publish on their own websites, 82 rows, each with the official source URL it was read from and the date last checked. CSV and JSON, MIT licensed.
 
 [⬆ back to contents](#contents)
 
