@@ -1461,6 +1461,7 @@ A variety of resources to help you prepare for interviews and enhance your resum
 - [Interview Query](https://www.interviewquery.com/) - Another platform to prepare for data science interviews.
 - [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Curated resources for mastering behavioral and system design interviews.
 - [Enhancv Data Scientist Resumes](https://enhancv.com/resume-examples/data-scientist/) - A collection of resume examples and tips tailored for data scientists.
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account) + State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%).
 - [Data Science Portfolio](https://www.datascienceportfol.io/) - A platform to create and showcase your data science portfolio.
 - [InterviewBit - SQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/) - Collection of SQL interview questions.
 - [StrataScratch](https://www.stratascratch.com/) - Platform with real data science interview questions from top companies.
